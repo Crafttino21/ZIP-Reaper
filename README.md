@@ -22,13 +22,10 @@ How to Use:
 
 How to Install:
 Windows Users:
-- Press the green Button on github with the text "<> Code"
-- Press "Download as ZIP"
-- Extract the zip to your Desktop
-- go into ZIP-Reaper Folder
-- start a CMD and go into the Folder with the Program
-- Type "pip install -r requierments.txt"
-- Type "python ZIP-Reaper.py"
+- goto realeses
+- Donwload "ZIP-Reaper.exe"
+
+(I wanna made a own version for windows, Because i use a dll lib for Windows and in the main version for linux not :))
 
 
 Linux Useres:
